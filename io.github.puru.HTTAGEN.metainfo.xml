@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.puru.HTTAGEN</id>
+  
+  <name>HTTAGEN</name>
+  <summary>This tool can be used to generate HTTP Basic Authentication tokens from provided username and password</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      This tool can be used to generate HTTP Basic Authentication tokens from provided username and password
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.puru.HTTAGEN.desktop</launchable>
+  <releases>
+  <release version="v2.1.0" date="2025-11-04">
+  </release>
+</releases>
+</component>
