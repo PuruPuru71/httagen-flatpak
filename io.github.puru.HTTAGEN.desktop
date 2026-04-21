@@ -4,6 +4,6 @@ Type=Application
 Name=HTTAGEN
 Comment=This tool can be used to generate HTTP Basic Authentication tokens from provided username and password
 Categories=Utility;Qt;
-Exec=httagen-gui
+Exec=httagen
 Terminal=false
 Icon=io.github.puru.HTTAGEN
